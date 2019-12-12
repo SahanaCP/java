@@ -7,7 +7,7 @@ package mythread;
 
 /**
  *
- * @author Krishna
+ * @author Sahana
  */
 public class Mythread extends Thread{
 
