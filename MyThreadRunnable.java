@@ -7,7 +7,7 @@ package mythreadrunnable;
 
 /**
  *
- * @author Krishna
+ * @author Sahana
  */
 public class MyThreadRunnable implements Runnable {
 
